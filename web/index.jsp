@@ -13,7 +13,7 @@
 
 
   Hello from JSP<br>
-  <a href="/home">Home Page</a>
+  <a href="/users">User Page</a>
 
   </body>
 </html>
